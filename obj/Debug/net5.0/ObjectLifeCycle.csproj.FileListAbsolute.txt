@@ -1,0 +1,16 @@
+D:\Durant\Projects\ObjectLifeCycle\bin\Debug\net5.0\ObjectLifeCycle.exe
+D:\Durant\Projects\ObjectLifeCycle\bin\Debug\net5.0\ObjectLifeCycle.deps.json
+D:\Durant\Projects\ObjectLifeCycle\bin\Debug\net5.0\ObjectLifeCycle.runtimeconfig.json
+D:\Durant\Projects\ObjectLifeCycle\bin\Debug\net5.0\ObjectLifeCycle.runtimeconfig.dev.json
+D:\Durant\Projects\ObjectLifeCycle\bin\Debug\net5.0\ObjectLifeCycle.dll
+D:\Durant\Projects\ObjectLifeCycle\bin\Debug\net5.0\ref\ObjectLifeCycle.dll
+D:\Durant\Projects\ObjectLifeCycle\bin\Debug\net5.0\ObjectLifeCycle.pdb
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ObjectLifeCycle.csprojAssemblyReference.cache
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ObjectLifeCycle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ObjectLifeCycle.AssemblyInfoInputs.cache
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ObjectLifeCycle.AssemblyInfo.cs
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ObjectLifeCycle.csproj.CoreCompileInputs.cache
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ObjectLifeCycle.dll
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ref\ObjectLifeCycle.dll
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ObjectLifeCycle.pdb
+D:\Durant\Projects\ObjectLifeCycle\obj\Debug\net5.0\ObjectLifeCycle.genruntimeconfig.cache
